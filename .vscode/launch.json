@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - infectedRoom",
+            "request": "launch",
+            "mainClass": "infectedRoom"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - intCopy",
+            "request": "launch",
+            "mainClass": "intCopy"
+        }
+    ]
+}
